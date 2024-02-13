@@ -1,9 +1,7 @@
 #-------------------------------------------------------------------------
 # AUTHOR: Evelyn Vu
 # FILENAME: indexing.py
-# SPECIFICATION:  the Python program (search_engine.py) that will read the file collection.csv and
-#                 output the precision/recall of a proposed search engine given the query q ={cat and dogs}. Consider
-#                 the search engine will return all documents with scores >= 0.1.
+# SPECIFICATION:  the Python program (indexing.py) that will read the file collection.csv and output the tf-idf document-term matrix.
 # FOR: CS 4250- Assignment #1
 # TIME SPENT: 3 hours
 #-----------------------------------------------------------*/
